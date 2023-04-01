@@ -4,10 +4,11 @@ This repository provides step-by-step instructions to set up automated spam filt
 
 ## Table of Contents
 
-    1. Postfix and Dovecot
-    2. Sendmail
-    3. Citadel
-    4. Mail-in-a-Box
+    1. Postfix 
+    2. Postfix and Dovecot
+    3. Sendmail
+    4. Citadel
+    5. Mail-in-a-Box
 
 ## Postfix
 
