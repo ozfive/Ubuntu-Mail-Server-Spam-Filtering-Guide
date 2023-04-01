@@ -1,4 +1,4 @@
-Install and Configure SpamAssassin with Dovecot and Postfix on Ubuntu Server
+# Install and Configure SpamAssassin with Dovecot and Postfix on Ubuntu Server
 
 Follow these steps to set up an automated spam filter on your Linux Ubuntu web server using SpamAssassin, Dovecot, and Postfix:
 
