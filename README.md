@@ -4,11 +4,12 @@ This repository provides step-by-step instructions to set up automated spam filt
 
 ## Table of Contents
 
-    1. Postfix 
-    2. Postfix and Dovecot
-    3. Sendmail
-    4. Citadel
-    5. Mail-in-a-Box
+    1. Exim
+    2. Postfix 
+    3. Postfix and Dovecot
+    4. Sendmail
+    5. Citadel
+    6. Mail-in-a-Box
 
 ## Exim
 A step-by-step guide for setting up an automated spam filter using SpamAssassin with Exim on an Ubuntu server. To follow this guide, please refer to the Exim.md file in this repository.
